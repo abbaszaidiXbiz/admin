@@ -1,0 +1,31 @@
+{
+  "SerializedFilePath": "d:\\HobbyProjects\\admin\\obj\\Debug\\net6.0\\project.razor.json",
+  "FilePath": "d:\\HobbyProjects\\admin\\admin.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "6.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 1000
+  },
+  "RootNamespace": "admin",
+  "Documents": [
+    {
+      "FilePath": "d:\\HobbyProjects\\admin\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\HobbyProjects\\admin\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.3"
+}

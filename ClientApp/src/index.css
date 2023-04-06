@@ -1,0 +1,135 @@
+body {
+  margin: 0px !important;
+}
+
+.header {
+  background-color: #01346b !important;
+  cursor: pointer;
+}
+
+.ant-menu-dark {
+  background-color: #01346b;
+}
+
+.parent {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+label{
+  font-weight: 600;
+}
+
+.child {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 800px;
+}
+
+
+#components-layout-demo-custom-trigger .trigger {
+  padding: 0 24px;
+  font-size: 18px;
+  line-height: 64px;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+#components-layout-demo-custom-trigger .trigger:hover {
+  color: #1890ff;
+}
+
+.logo {
+  float: left;
+  width: 120px;
+  height: 31px;
+  margin: 16px 24px 16px 0;
+}
+
+
+.trigger {
+
+  padding: 0 24px;
+  font-size: 18px;
+  line-height: 64px;
+  cursor: pointer;
+  transition: color 0.3s;
+
+}
+
+
+.opacity30{
+  filter: alpha(opacity=30);
+  -moz-opacity: 0.3;
+  -khtml-opacity: 0.3;
+  opacity: 0.3;
+
+}
+.opacity1{
+  filter: alpha(opacity=100);
+  -moz-opacity: 1.0;
+  -khtml-opacity: 1.0;
+  opacity: 1.0;
+
+}
+
+.login-img {
+  width: 100%;
+  height: 100%;
+}
+
+.google-button {
+  display: inline-flex !important;
+  align-items: center !important;
+  text-align: center !important;
+}
+
+
+/* Centered text */
+.centered-img-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #ffffff;
+}
+
+/* boottom right */
+.bottom-text {
+  position: absolute;
+  bottom: 35%;
+  left: -50%;
+  left: 50%;
+  transform: translate(-50%, 3%);
+  color: #ffffff;
+}
+.login-right-logo{
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #ffffff;
+  width: 300px;
+}
+ .scrollable-container {
+  height: 100px;
+  overflow-y: scroll;
+}
+ .background {
+ 
+  height: 300px;
+}
+
+.backwards {
+  display: inline;
+  font-size: 100px;
+  font-style: bold;
+  -moz-transform: scale(-1, -1);
+  -webkit-transform: scale(-1, -1);
+  -o-transform: scale(-1, -1);
+  -ms-transform: scale(-1, -1);
+  transform: scale(-1, -1);
+}
+ 
